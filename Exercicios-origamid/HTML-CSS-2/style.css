@@ -1,0 +1,27 @@
+h1 {
+  text-align: center;
+}
+.item {
+  background-color: #111;
+  color: #fff;
+  padding: 30px;
+  margin: 20px;
+  border-radius: 4px;
+}
+span{
+  color: #febe01;
+}
+
+a{
+  background-color: #febe01;
+  text-decoration: none;
+  display: inline-block;
+  color: #332100;
+  border-radius: 4px;
+  display: inline-block;
+  padding: 10px;
+}
+
+p{
+  color: #b2b2b2;
+}
